@@ -1,2 +1,4 @@
-# prijekt_angular
-Html
+# Projekt_Angular
+* Html
+* Css
+* Js
